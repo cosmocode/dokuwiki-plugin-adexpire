@@ -1,0 +1,7 @@
+base   adexpire
+author Andreas Gohr
+email  andi@splitbrain.org
+date   2011-11-07
+name   adexpire plugin
+desc   Tell users when their
+url    http://www.dokuwiki.org/plugin:adexpire
